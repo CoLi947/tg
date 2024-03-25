@@ -222,7 +222,7 @@
 "system; it is up to the author/donor to decide if he or she is willing\n"
 "to distribute software through any other system and a licensee cannot\n"
 "impose that choice.\n"
-"\n"
+"\"
 "This section is intended to make thoroughly clear what is believed to\n"
 "be a consequence of the rest of this License.\n"
 "\n"
